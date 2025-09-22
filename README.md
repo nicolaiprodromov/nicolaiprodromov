@@ -1,4 +1,4 @@
-## Hi there 👋
+<iframe src="https://lottie.host/embed/b1e00122-dd7b-4a38-a4d7-050948bcdeb1/u4pb3FigRi.lottie"></iframe>
 
 <!--
 **nicolaiprodromov/nicolaiprodromov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
