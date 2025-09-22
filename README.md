@@ -1,4 +1,8 @@
-()[https://i.pinimg.com/originals/63/4e/69/634e69d626a982c793cb6e2da0ee20e5.gif]
+<div align="center">
+	<img src="[welcome-header.gif](https://i.pinimg.com/originals/63/4e/69/634e69d626a982c793cb6e2da0ee20e5.gif)" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 
 <!--
 **nicolaiprodromov/nicolaiprodromov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
