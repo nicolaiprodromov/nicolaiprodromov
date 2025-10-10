@@ -9,7 +9,7 @@
 *founder @ [XWZ Labs](https://xwz.app)* | experiments and procedural tooling in blender
 
 </td>
-<td width="40%" valign="top" halign="center">
+<td width="40%" valign="top" align="center">
 	<img src="Asset 1.svg" alt="welcome to my github profile" width="150px">
 </td>
 </tr>
