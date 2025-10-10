@@ -1,22 +1,16 @@
+<table>
+<tr>
+<td width="60%" align="center">
+	<h1>Nicolai Prodromov</h1>
 
-<img src="Slippers.gif" alt="welcome to my github profile">
-<div align="center">
-	<img src="634e69d626a982c793cb6e2da0ee20e5.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
+[![](https://img.shields.io/badge/-@nicolaiprodromov-%23181717?style=flat-square&logo=github)](https://github.com/nicolaiprodromov) [![](https://img.shields.io/badge/-niku.bad.video-%23181717?style=flat-square&logo=youtube&logoColor=white)](https://niku.bad.video)
+[![](https://img.shields.io/badge/-xwz.app-%23181717?style=flat-square&logo=blender&logoColor=white)](https://niku.bad.video)
 
-<!--
-**nicolaiprodromov/nicolaiprodromov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *founder @ [XWZ Labs](https://xwz.app)* | experiments and procedural tooling in blender
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td width="40%" valign="top">
+	<img src="Asset 1.svg" alt="welcome to my github profile" width="150px">
+</td>
+</tr>
+</table>
