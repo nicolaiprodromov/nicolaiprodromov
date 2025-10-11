@@ -16,6 +16,8 @@
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t3rlpe9e5qk4oflrh3ho6ubwd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=ff0000" alt="Spotify" height="100px"/>
 
+<br>
+
 <details>
 <summary>
     about me
@@ -24,6 +26,10 @@
 ## stats
 
 <img src="Asset 1.svg" alt="welcome to my github profile" width="150px">
+
+<br>
+
+<br>
 
 <br>
 
