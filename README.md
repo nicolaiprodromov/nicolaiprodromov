@@ -34,8 +34,8 @@
 <br>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=nicolaiprodromov&show_icons=true&theme=one_dark_pro" alt="stats" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaiprodromov&theme=one_dark_pro" alt="stats" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nicolaiprodromov&show_icons=true&theme=one_dark_pro" alt="stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaiprodromov&theme=one_dark_pro" alt="stats" height="180px"/>
 </p>
 
 ## projects i am working on
@@ -45,6 +45,9 @@
 ## my website
 
 <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=nicolaiprodromov&repo=bad.video&theme=one_dark_pro" alt="stats" height="200px" width="400px"/>
+
+
+### [contribute to the XWZ project](https://xwz.app/contribute)
 
 <img align='center' src="Fire.gif" alt="fire" height="200px" width="400px" hspace="-200px"/>
 
