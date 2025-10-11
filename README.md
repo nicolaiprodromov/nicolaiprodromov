@@ -20,8 +20,6 @@
     about me
 </summary>
 
----
-
 # stats
 
 <img align="right" src="Asset 1.svg" alt="welcome to my github profile" width="150px">
