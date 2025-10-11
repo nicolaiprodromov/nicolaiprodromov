@@ -44,8 +44,9 @@
 
 ## my website
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolaiprodromov&repo=bad.video&theme=one_dark_pro" alt="stats" width="400px"/>
+<img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=nicolaiprodromov&repo=bad.video&theme=one_dark_pro" alt="stats" height="200px" width="400px"/>
 
+<img align='center' src="Fire.gif" alt="fire" height="200px" width="400px" hspace="-200px"/>
 
 </details>
 
