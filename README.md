@@ -12,8 +12,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-%23181717?style=flat&logo=blender&logoColor=white)
 ![Houdini](https://img.shields.io/badge/-Houdini-%23181717?style=flat&logo=houdini&logoColor=white)
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zeg73db6tjv2g2t4x66yl4wr6u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=ff0000)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zeg73db6tjv2g2t4x66yl4wr6u&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t3rlpe9e5qk4oflrh3ho6ubwd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=ff0000)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zeg73db6tjv2g2t4x66yl4wr6u&redirect=true)
 
 <details>
 <summary>
