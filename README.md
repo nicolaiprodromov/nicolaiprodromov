@@ -49,7 +49,7 @@
 
 ### [contribute to the XWZ project](https://xwz.app/contribute)
 
-<img align='center' src="Fire.gif" alt="fire" height="200px" width="400px" hspace="-200px"/>
+<img align='center' src="Fire.gif" alt="fire" height="200px" width="400px"/>
 
 </details>
 
