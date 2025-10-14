@@ -40,6 +40,7 @@
 
 ## projects i am working on
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolaiprodromov&repo=puree&theme=one_dark_pro" alt="stats" width="400px"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolaiprodromov&repo=dot_node&theme=one_dark_pro" alt="stats" width="400px"/>
 
 ## my website
