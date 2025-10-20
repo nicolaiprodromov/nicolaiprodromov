@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-@nicolaiprodromov-%23181717?style=flat&logo=github)](https://github.com/nicolaiprodromov) [![](https://img.shields.io/badge/-niku.bad.video-%23181717?style=flat&logo=youtube&logoColor=white)](https://niku.bad.video)
 [![](https://img.shields.io/badge/-xwz.app-%23181717?style=flat&logo=blender&logoColor=white)](https://niku.bad.video)
 
-*founder @ [XWZ Labs](https://xwz.app)* | experiments and procedural tooling in blender
+*founder @ [XWZ](https://xwz.app)* | experiments and procedural tooling in blender
 
 ![Python](https://img.shields.io/badge/-Python-%23181717?style=flat&logo=python&logoColor=white)
 ![GLSL](https://img.shields.io/badge/-GLSL-%23181717?style=flat&logo=opengl&logoColor=white)
