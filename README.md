@@ -1,6 +1,4 @@
-<div align='center'>
-
-code experiments :: procedural art & tools
+### code experiments :: procedural art & tools
 
 ![Python](https://img.shields.io/badge/-%23181717?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-%23181717?style=flat&logo=rust&logoColor=white)
